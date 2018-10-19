@@ -4,3 +4,4 @@ The Projects section needs to be totally filled out, and there should be a profe
 
 ## Word on hosting
 This site is actually hosted in a google cloud bucket, as it's a completely static site.
+[Check Out the Site](http://www.thecmcdowell.com)
